@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               보안 공부합니다. IoT/Ebedded Security, LLM 관심 있어요. 
+tagline:               'Interest&Learning: IoT/Ebedded Security, LLM'
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                rlozll
+  email:               hej@swu.ac.kr
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
