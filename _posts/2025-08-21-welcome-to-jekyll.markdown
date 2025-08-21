@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Gemini가 갑자기 일본어를?"
 date:   2025-08-21 04:52:06 +0900
-categories: [studylog]
+categories: studylog
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
