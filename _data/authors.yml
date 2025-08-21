@@ -2,28 +2,52 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  # name:              rlozll
+  # email:             hej@swu.ac.kr
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, my name is rlozll.
+    ## Hello, World!
+    Hi, I'm **rlozll!**
+
+    I am a student in the Department of Information Security at **Seoul Women's University.**
+
+    ---
+
+
+    **🖥️Interest && Learning:**
+    - DFIR 15
+    - IoT/Embedded Security 50
+    - Malware Analysis 15
+    - AI applications (LLM) 20
+
+    **🎶Like && Hobby :**
+    - music (AppleID: [@rlozll](https://music.apple.com/profile/rlozll) / rock, hip-hop, pop…)
+    - anime (hxh💕)
+    - watching football (LFC)
+    - go to rock concert/festival
+    - piano
+
+
+    This blog is for my security study!
+    ## Thank you! 
+
 
   # This photo will be used in the about section
-  picture:
-    path:            https://via.placeholder.com/128x128
+  picture:            /assets/img/logo.png
+    # path:            https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+    # srcset:
+      # 1x:            https://via.placeholder.com/128x128
+      # 2x:            https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         rlozll
+    #twitter:         rlozll
     github:          rlozll
     email:           hej@swu.ac.kr
     # rss:             https://<url>/feed.xml
@@ -75,7 +99,7 @@ author1:
     # wechat:          https://<url>
     # discord:         <invite-code>
     # mastodon:        https://<url>
-    # x:               <username>
+    x:               rlozll148
 
 # Another author (optional)
 author2:

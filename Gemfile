@@ -8,9 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-feed", "~> 0.15"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
+
+gem "jekyll-remote-theme", "~> 0.4.3"
 
 # If you are part of the ["Customers" team](https://github.com/orgs/hydecorp/teams/pro-customers), 
 # you can fetch the theme from a private repository. 
@@ -35,6 +38,9 @@ gem "kramdown-math-katex"
 # A JavaScript runtime for Ruby that helps with running the katex gem above.
 gem "duktape"
 
+gem "logger"
+gem "fiddle"
+
 # Required for `jekyll serve` in Ruby 3
 gem "webrick"
 
@@ -43,7 +49,7 @@ gem "webrick"
 
 group :jekyll_plugins do
   gem "jekyll-default-layout"
-  gem "jekyll-feed"
+  # gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
   gem "jekyll-paginate"
   gem "jekyll-readme-index"

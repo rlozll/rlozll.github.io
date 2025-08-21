@@ -49,12 +49,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+  - title:             ABOUT
     url:               /about/
+  - title:             STUDY LOG
+    url:               /studylog/
+    submenu:
+      - title:         WRITE-UP
+        url:           /writeup/
+  - title:             RESEARCH
+    url:               /research/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -81,12 +84,12 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-remote_theme: qwtel/hydejack
+# remote_theme: qwtel/hydejack
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
 # This will fetch the `v9` branch of the public Hydejack repository on GitHub.
-# remote_theme: hydecorp/hydejack@v9
+remote_theme: qwtel/hydejack
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
