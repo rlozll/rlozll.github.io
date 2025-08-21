@@ -1,6 +1,5 @@
 ---
 layout: about
-        
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   Hi, I'm rlozll!
