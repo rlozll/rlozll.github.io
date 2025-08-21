@@ -53,9 +53,8 @@ menu:
     url:               /about/
   - title:             STUDY LOG
     url:               /studylog/
-    submenu:
-      - title:         WRITE-UP
-        url:           /writeup/
+  - title:             WRITE-UP
+    url:               /writeup/
   - title:             RESEARCH
     url:               /research/
 
