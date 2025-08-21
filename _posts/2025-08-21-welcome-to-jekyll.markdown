@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Google Gemini가 갑자기 일본어를?"
 date:   2025-08-21 04:52:06 +0900
 categories: studylog
 ---
