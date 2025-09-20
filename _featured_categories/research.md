@@ -12,6 +12,7 @@ slug: research
 description: >
   리서칭한 거 올리는 페이지!
 
+permalink: /research/
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 

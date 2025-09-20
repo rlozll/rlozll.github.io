@@ -12,6 +12,7 @@ slug: studylog
 description: >
   공부한 거 올리는 페이지!
 
+permalink: /studylog/
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 

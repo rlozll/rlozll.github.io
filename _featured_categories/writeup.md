@@ -12,6 +12,7 @@ slug: writeup
 description: >
   ctf/wargame write-up
 
+permalink: /writeup/
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
