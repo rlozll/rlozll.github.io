@@ -22,7 +22,7 @@ layout: base
 {% if plugins contains 'jekyll-paginate' %}
   {% assign posts = paginator.posts %}
 {% else %}
-  {% assign posts = site.categories[page.slug] | default:site.tags[page.slug] | default:site.posts %}
+  {% assign posts = site.categories[page.title] %}
 {% endif %}
   
 {% for post in posts %}
