@@ -60,7 +60,7 @@ OTA 업데이트, 클라우드 연동, 자율주행 처리에도 최적화되었
 
 ![neueklasse](../assets/img/2025-10-16/image2.png)
 
-[neueklasse]: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2024/BMW-Group-Investor-Analyst-Days-2024_Digital-BMW.pdf
+[neueklasse]: https://www.bmwgroup.com/en/news/general/2025/superbrains.html
 
 - Mercedes-Benz: 메르세데스는 소프트웨어 중심의 전기차 아키텍처 'MB.OS'를 기반으로 Zonal Architecture를 적극적으로 도입하고 있으며, 2025년 이후 모델부터 적용한다고 말한 바가 있다.
 
