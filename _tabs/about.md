@@ -4,5 +4,23 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# rlozll | Ham Eunji
+
+B.S. Information Security (Majored in Seoul Women's Univ.)
+
+My primary areas of interest include:
+> - Automated Vulnerability Detection
+- Embedded & IoT Device Hacking (mostly Car Hacking)
+- Hardware Hacking
+{: .prompt-info }
+
+### EXPERIENCE
+
+
+### AWARDS & PROJECTS
+
+
+### PRESENTATION
+
+
+### ORAGANIZATIONS

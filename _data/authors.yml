@@ -4,14 +4,23 @@
 #   name: {full name}
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
+#   avatar: /assets/img/gon.png
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+# cotes:
+#   name: Cotes Chung
+#   twitter: cotes2020
+#   url: https://github.com/cotes2020/
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+# sille_bille:
+#   name: Dinesh Prasanth Moluguwan Krishnamoorthy
+#   twitter: dinesh_MKD
+#   url: https://github.com/SilleBille/
+
+rlozll:
+  name: Ham Eunji
+  avatar: /assets/img/gon.png
+  email: ham60108@gmail.com
+  links:
+    - https://github.com/rlozll
+    - https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%ED%95%A8-885a77305/
