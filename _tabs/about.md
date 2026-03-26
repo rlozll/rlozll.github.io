@@ -22,7 +22,7 @@ My primary areas of interest include:
 
 ### PROJECTS
 ECU Security system
-: bit-level timing 기반 ECU 인증 시스템 개발 
+: bit-level timing based ECU certification system development
 
 IDS Rule Generation System
 : AI Based Realtime IDS Rule Generation System Devlopment 
