@@ -12,7 +12,6 @@ My primary areas of interest include:
 > - Automated Vulnerability Detection
 - Embedded & IoT Device Hacking (mostly Car Hacking)
 - Hardware Hacking
-{: .prompt-info }
 
 ### EXPERIENCE
 

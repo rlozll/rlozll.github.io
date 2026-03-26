@@ -82,3 +82,12 @@ This project is published under [MIT License][license].
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [vscode]: https://code.visualstudio.com/
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+
+## Commit Format
+
+feat: 기능 추가
+fix: 버그 수정
+docs: 문서 수정
+style: 코드 스타일
+refactor: 리팩토링
+chore: 기타 작업(빌드, 설정 등)
