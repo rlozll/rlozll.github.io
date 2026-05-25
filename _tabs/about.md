@@ -17,8 +17,8 @@ My primary areas of interest include:
 
 ### EXPERIENCE & AWARDS
 - 2026~ Hardware Hacking Team Physical Lab 소속
-- 2025 INC0GNITO CTF 본선 문제 출제진
-- 2026 융합보안크루 3기 모빌리티 보안 크루장
+- 2026 INC0GNITO CTF 본선 문제 출제진
+- 2026 KISIA ICT융합보안크루 3기 모빌리티 보안 크루장
 - 2025 서울여대 정보보호 소학회 SWING 부회장
 - 2025 자동차해킹방어대회 Autohack 10위 (본선 진출)
 - 2025 SWING&ASC Seminar Speaker 'Automotive Security'
