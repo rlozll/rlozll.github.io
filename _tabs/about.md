@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+[old log](https://rlozll.tistory.com/)
+
 # rlozll | Ham Eunji
 
 B.S. Information Security (Majored in Seoul Women's Univ.)
@@ -26,17 +28,17 @@ My primary areas of interest include:
 ECU Security system
 : bit-level timing based ECU certification system development
 
-IDS Rule Generation System [repo](https://github.com/rlozll/PBL-LLM-IDSRules)
-: AI Based Realtime IDS Rule Generation System Devlopment 
+IDS Rule Generation System 
+: AI Based Realtime IDS Rule Generation System Devlopment [repo](https://github.com/rlozll/PBL-LLM-IDSRules)
 
-Bleedingtooth Vulnerability analysis [blog](https://log.swuswing.com/2025/08/24/3105_250824/)
-: Linux Bluetooth Zero-Click RCE Vul. research column
+Bleedingtooth Vulnerability analysis 
+: Linux Bluetooth Zero-Click RCE Vul. research column [blog](https://log.swuswing.com/2025/08/24/3105_250824/)
 
-Android RAT analysis [blog](https://log.swuswing.com/2025/09/24/313201_250926/)
-: RAT mobile malicious code research column(static/dinamic analysis)
+Android RAT analysis 
+: RAT mobile malicious code research column(static/dinamic analysis) [blog](https://log.swuswing.com/2025/09/24/313201_250926/)
 
-Kernel UAF Reasearch [blog](https://log.swuswing.com/2024/05/31/monthly_24_05/)
-: Use-After-Free Vul. research column
+Kernel UAF Reasearch 
+: Use-After-Free Vul. research column [blog](https://log.swuswing.com/2024/05/31/monthly_24_05/)
 
 Malicious file detection AI system design 
 : Design of a Malicious File Detection System through Binary Imaging
